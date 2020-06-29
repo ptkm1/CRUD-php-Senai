@@ -12,7 +12,7 @@ Esse projeto faz parte de uma atividade avaliativa da disciplina de Desenvolvime
 **Autores**
 Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-| Patrick R. Moreira| [Github](https://www.linkedin.com/in/ptkm1) | [Linkedin](github.com/ptkm1) | [Behance](behance.net/ptkm1) | [Site](http://ptkfolio.rf.gd)|
+Patrick R. Moreira| [Github](https://www.linkedin.com/in/ptkm1) | [Linkedin](github.com/ptkm1) | [Behance](behance.net/ptkm1) | [Site](http://ptkfolio.rf.gd)
 
 **Tecnologias**
 
